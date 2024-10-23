@@ -1,6 +1,6 @@
 <template>
   <div id="footer">
-    <p>anão renan pinheiro</p>
+    <p>Renan Pinheiro</p>
   </div>
 </template>
 
